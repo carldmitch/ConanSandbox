@@ -1,0 +1,16 @@
+{
+	"name": "TheAtaliMod",
+	"description": "ModID:1232156640\n\nThe Atali Mod\nPlease join my community on Discord: https://discord.gg/CZenvRF\n\nFeatures:\n+ Adds additional levels with attribute points/XP/feats up to level 149\n+ Doubles the storage slots of the 4 main containers\n+ Wooden Box (30)\n+ Cupboard (90)\n+ Large Chest (90)\n+ Vault (600)\n\n+ Most placeables have the added ability to be 'Returned to Inventory'\nedits: BP_Master_Placeables\n\n+ Increases Encumbrance per attribute point used\nedits: BP_ProgressionSystem\n\n+ Disable camera shake\n    edits:  BP_CameraShakeDefault\n            BP_CameraShakeHarvestImpact\n            BP_CameraShakeHarvestImpactDeflect\n\n+ Increased Elevators Speed\n    edits:  BP_PL_Elevator\n            BP_PL_Elevator_Horizontal\n\n+ Increased stack sizes for the 'most harvested' resources",
+	"changeNote": "+ fixed Legendary Chests to open at level 60, instead of 'max level'",
+	"author": "carldmitch",
+	"authorUrl": "www.carldmitch.com",
+	"versionMajor": 0,
+	"versionMinor": 0,
+	"versionBuild": 1,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1232156640",
+	"steamVisibility": 0,
+	"folderName": "TheAtaliMod",
+	"revisionNumber": 95365,
+	"snapshotId": 17742
+}

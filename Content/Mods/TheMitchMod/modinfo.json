@@ -1,0 +1,16 @@
+{
+	"name": "The Mitch Mod",
+	"description": "ModID: 1235222520\n\nThe Mitch Mod\n\n+ Increases Encumbrance per attribute point used\n    edits: BP_ProgressionSystem (from 7 to 35)\n\n+ Disable camera shake\n    edits:  BP_CameraShakeDefault\n            BP_CameraShakeHarvestImpact\n            BP_CameraShakeHarvestImpactDeflect\n\n+ Increased Elevators Speed\n\n+ Additional levels with attribute points/XP/feats up to level 149\n\n-------------------------------------------------------------------\nCONSTRUCTION:\n63 - Dry Wood Building\n84 - Brickwood Building\n105 - Red Clay Building\n\nGLASS:\n62 - The Glass Builder\n62 - Smokey Glass Building\n71 - Iolite Glass Building\n80 - Rose Quartz Glass Building\n89 - Apatite Glass Building\n98 - Ruby Glass Building\n107 - Sapphire Glass Building\n116 - Citrine Glass Building\n125 - Emerald Glass Building\n\nDECORATION:\n63 - Landscaping Bushes\n64 - Tree Planter\n70 - Decorative Building (Inside Walls)\n72 - Hanging Wall Signs\n81 - Atali Screens\n87 - Pillars\n95 - Ceiling Tiles\n\nSURVIVAL:\n65 - Dump Chest\n\n70 - Purple Lotus Harvesting\n80 - Frost Lotus Harvesting\n100 - Crimson Lotus Harvesting\n120 - Golden Lotus Harvesting\n145 - Black Lotus Harvesting",
+	"changeNote": "* rebuit for updated devkit",
+	"author": "Carl Mitchell",
+	"authorUrl": "www.carldmitch.com",
+	"versionMajor": 0,
+	"versionMinor": 5,
+	"versionBuild": 1,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1235222520",
+	"steamVisibility": 0,
+	"folderName": "TheMitchMod",
+	"revisionNumber": 116512,
+	"snapshotId": 20221
+}

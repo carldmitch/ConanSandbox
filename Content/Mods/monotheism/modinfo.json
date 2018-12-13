@@ -1,0 +1,16 @@
+{
+	"name": "monotheism",
+	"description": "Monotheism has been defined as the belief in the existence of only one god that created the world, is all-powerful and intervenes in the world.",
+	"changeNote": "- Removed ability to learn additional religions in the world",
+	"author": "",
+	"authorUrl": "",
+	"versionMajor": 0,
+	"versionMinor": 0,
+	"versionBuild": 1,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "",
+	"steamVisibility": 2,
+	"folderName": "monotheism",
+	"revisionNumber": 112258,
+	"snapshotId": 20023
+}
